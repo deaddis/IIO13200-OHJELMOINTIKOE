@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<kirjanpito>
+  <kirjaus>
+    <kayttaja>Linus</kayttaja>
+    <paiva>2013-12-12</paiva>
+    <tunnit>5</tunnit>
+    <minuutit>59</minuutit>
+  </kirjaus>
+  <kirjaus>
+    <kayttaja>Richard</kayttaja>
+    <paiva>2013-12-12</paiva>
+    <tunnit>5</tunnit>
+    <minuutit>59</minuutit>
+  </kirjaus>
+  <kirjaus>
+    <kayttaja>Linus</kayttaja>
+    <paiva>12.12.2013</paiva>
+    <tunnit>1</tunnit>
+    <minuutit>12</minuutit>
+  </kirjaus>
+</kirjanpito>

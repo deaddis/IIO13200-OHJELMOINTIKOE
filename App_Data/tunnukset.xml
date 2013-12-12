@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<employee>
+  <User>
+    <username>Linus</username>
+    <password>54d5cb2d332dbdb4850293caae4559ce88b65163f1ea5d4e4b3ac49d772ded14</password>
+  </User>
+  <User>
+    <username>Richard</username>
+    <password>bcd8af9004d8b5d24647b3f3cd5759fc8d3dc72a5c3fe932d97be2960d57b0e2</password>
+  </User>
+  <User>
+    <username>Monty</username>
+    <password>d0d4dbe2bcecde45ce30791f7040e9cb9ff9a1087d1178d0cab5f80fe5f06d79</password>
+  </User>
+  <User>
+    <username>Bjarne</username>
+    <password>a06196cd201bb27f7f8d3820e48c289f2a22cb8f8e24d422a859ce570deb0a33</password>
+  </User>
+</employee>
